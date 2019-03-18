@@ -16,4 +16,4 @@ samples, guidance on mobile development, and a full API reference.
 Sample login and registration app with Firebase build in Flutter.
 
 # Preview
-![GitHub Logo](https://github.com/lhmrnfrzrfr/flutter_login_app/blob/master/images/Screenshot_com.example.flutter_login_demo.png =24x48)  
+![GitHub Logo]<img src="https://github.com/lhmrnfrzrfr/flutter_login_app/blob/master/images/Screenshot_com.example.flutter_login_demo.png" width="400" height="790">
